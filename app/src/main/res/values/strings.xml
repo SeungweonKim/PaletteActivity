@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Palette Activity</string>
+    <array name="colors">
+        <item>#ffffff</item>
+        <item>#000000</item>
+        <item>#ffff00</item>
+        <item>#ff0000</item>
+        <item>#0000ff</item>
+    </array>
+</resources>
